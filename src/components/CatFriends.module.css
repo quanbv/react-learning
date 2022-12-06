@@ -1,0 +1,13 @@
+.imageList {
+  width: 30%;
+  overflow-x: scroll;
+}
+
+.ul {
+  display: flex;
+}
+
+.li {
+  display: inline;
+  padding: 0.5rem;
+}
